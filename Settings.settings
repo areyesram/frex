@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Aryes" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Mask" Type="Aryes.BE.RecentList" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Path" Type="Aryes.BE.RecentList" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="RegX" Type="Aryes.BE.RecentList" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Replace" Type="Aryes.BE.RecentList" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CheckReplace" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CheckTrim" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Recurse" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MaxFileSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10485760</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

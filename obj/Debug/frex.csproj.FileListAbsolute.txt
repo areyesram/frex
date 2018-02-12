@@ -1,0 +1,31 @@
+C:\Util\bin\frex.exe.config
+C:\Util\bin\frex.XML
+C:\Util\bin\frex.exe
+C:\Util\bin\frex.pdb
+C:\Users\admin\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.Properties.Resources.resources
+C:\Users\admin\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.ReplaceForm.resources
+C:\Users\admin\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.MainForm.resources
+C:\Users\admin\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.csproj.GenerateResource.Cache
+C:\Users\admin\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.exe
+C:\Users\admin\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.pdb
+C:\Users\alex\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.csprojResolveAssemblyReference.cache
+C:\Users\alex\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.Properties.Resources.resources
+C:\Users\alex\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.ReplaceForm.resources
+C:\Users\alex\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.MainForm.resources
+C:\Users\alex\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.csproj.GenerateResource.Cache
+C:\Users\alex\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.exe
+C:\Users\alex\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.pdb
+D:\AppData\Google\Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.csprojResolveAssemblyReference.cache
+D:\AppData\Google\Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.Properties.Resources.resources
+D:\AppData\Google\Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.ReplaceForm.resources
+D:\AppData\Google\Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.MainForm.resources
+D:\AppData\Google\Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.csproj.GenerateResource.Cache
+D:\AppData\Google\Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.exe
+D:\AppData\Google\Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.pdb
+C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.csprojResolveAssemblyReference.cache
+C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.Properties.Resources.resources
+C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.ReplaceForm.resources
+C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.MainForm.resources
+C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.csproj.GenerateResource.Cache
+C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.exe
+C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.pdb

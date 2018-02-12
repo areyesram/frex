@@ -1,0 +1,89 @@
+[FILES]
+~AR.html
+~AR~Hierarchy.html
+FindRegX.GUI~AR.AutoCompCombo.html
+FindRegX.GUI~AR.AutoCompCombo~Members.html
+FindRegX.GUI~AR.AutoCompCombo.~ctor.html
+FindRegX.GUI~AR.AutoCompCombo~Properties.html
+FindRegX.GUI~AR.AutoCompCombo.Recursive.html
+FindRegX.GUI~AR.AutoCompCombo~Methods.html
+FindRegX.GUI~AR.AutoCompCombo.BrowseForDirectory.html
+FindRegX.GUI~AR.AutoCompCombo~Events.html
+FindRegX.GUI~AR.AutoCompCombo.RecursiveChanged.html
+FindRegX.GUI~AR.AutoCompCombo.SelectedPathChanged.html
+FindRegX.GUI~AR.AutoCompCombo.SelectedPathChangedEventHandler.html
+~FindRegX.html
+~FindRegX~Hierarchy.html
+FindRegX.GUI~FindRegX.ConfigHelper.html
+FindRegX.GUI~FindRegX.ConfigHelper~Members.html
+FindRegX.GUI~FindRegX.ConfigHelper.~ctor.html
+FindRegX.Core~FindRegX.FindRegX.html
+FindRegX.Core~FindRegX.FindRegX~Members.html
+FindRegX.Core~FindRegX.FindRegX.~ctor.html
+FindRegX.Core~FindRegX.FindRegX~Properties.html
+FindRegX.Core~FindRegX.FindRegX.Matches.html
+FindRegX.Core~FindRegX.FindRegX.Pattern.html
+FindRegX.Core~FindRegX.FindRegX.Recursive.html
+FindRegX.Core~FindRegX.FindRegX.Regex.html
+FindRegX.Core~FindRegX.FindRegX.Replace.html
+FindRegX.Core~FindRegX.FindRegX.Replacements.html
+FindRegX.Core~FindRegX.FindRegX.Results.html
+FindRegX.Core~FindRegX.FindRegX.Trim.html
+FindRegX.Core~FindRegX.FindRegX~Methods.html
+FindRegX.Core~FindRegX.FindRegX.Start.html
+FindRegX.Core~FindRegX.FindRegX.Stop.html
+FindRegX.Core~FindRegX.FindRegX~Events.html
+FindRegX.Core~FindRegX.FindRegX.FileProcessed.html
+FindRegX.Core~FindRegX.FindRegX.FileSkipped.html
+FindRegX.Core~FindRegX.FindRegX.FailReason.html
+FindRegX.Core~FindRegX.FindRegX.TraverseEventHandler.html
+FindRegX.GUI~FindRegX.ReplaceForm.html
+FindRegX.GUI~FindRegX.ReplaceForm~Members.html
+FindRegX.GUI~FindRegX.ReplaceForm.~ctor.html
+FindRegX.GUI~FindRegX.ReplaceForm~Methods.html
+FindRegX.GUI~FindRegX.ReplaceForm.Dispose~Overloads.html
+FindRegX.GUI~FindRegX.ReplaceForm.Dispose1.html
+FindRegX.Core~FindRegX.ReplacementInfo.html
+FindRegX.Core~FindRegX.ReplacementInfo~Members.html
+FindRegX.Core~FindRegX.ReplacementInfo.~ctor.html
+FindRegX.Core~FindRegX.ReplacementInfo~Properties.html
+FindRegX.Core~FindRegX.ReplacementInfo.ReplaceWith.html
+FindRegX.Core~FindRegX.ReplacementInfo.TextToFind.html
+FindRegX.GUI~FindRegX.Start.html
+FindRegX.GUI~FindRegX.Start~Members.html
+FindRegX.GUI~FindRegX.Start.~ctor.html
+FindRegX.GUI~FindRegX.Start~Methods.html
+FindRegX.GUI~FindRegX.Start.Main.html
+~FindRegX.BE.html
+~FindRegX.BE~Hierarchy.html
+FindRegX.GUI~FindRegX.BE.RecentItem.html
+FindRegX.GUI~FindRegX.BE.RecentItem~Members.html
+FindRegX.GUI~FindRegX.BE.RecentItem.~ctor.html
+FindRegX.GUI~FindRegX.BE.RecentItem~Properties.html
+FindRegX.GUI~FindRegX.BE.RecentItem.LastUsed.html
+FindRegX.GUI~FindRegX.BE.RecentItem.Value.html
+FindRegX.GUI~FindRegX.BE.RecentItem~Methods.html
+FindRegX.GUI~FindRegX.BE.RecentItem.CompareTo.html
+FindRegX.GUI~FindRegX.BE.RecentList.html
+FindRegX.GUI~FindRegX.BE.RecentList~Members.html
+FindRegX.GUI~FindRegX.BE.RecentList.~ctor.html
+
+[OPTIONS]
+Title=Documentation
+Auto Index=Yes
+Binary TOC=Yes
+Compatibility=1.1 or later
+Compiled file=Documentation.chm
+Default Window=MsdnHelp
+Default topic=~AR.html
+Display compile progress=No
+Error log file=Documentation.log
+Full-text search=Yes
+Index file=Documentation.hhk
+Language=0x409 English (United States)
+Contents file=Documentation.hhc
+
+[WINDOWS]
+MsdnHelp="Documentation Help","Documentation.hhc","Documentation.hhk","~AR.html","~AR.html",,,,,0x62520,220,0x387e,[86,51,872,558],,,,,,,0
+
+[INFOTYPES]

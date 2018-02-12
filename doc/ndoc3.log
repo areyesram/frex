@@ -1,0 +1,341 @@
+Building documentation...
+Memory before build: 853688
+Initializing...
+Merging XML documentation...
+Cached doc : findregx.core.xml (0.015 sec.)
+TRACE: processing comment '[FindRegX.Core]T:FindRegX.FindRegX':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]M:FindRegX.FindRegX.Start(System.String)':
+<summary></summary>
+<param name="path"></param>
+TRACE: processing comment '[FindRegX.Core]M:FindRegX.FindRegX.Stop':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.FindRegX.Replacements':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.FindRegX.Matches':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.FindRegX.Pattern':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.FindRegX.Recursive':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.FindRegX.Regex':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.FindRegX.Replace':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.FindRegX.Trim':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.FindRegX.Results':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]E:FindRegX.FindRegX.FileProcessed':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]E:FindRegX.FindRegX.FileSkipped':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]T:FindRegX.FindRegX.FailReason':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]F:FindRegX.FindRegX.FailReason.None':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]F:FindRegX.FindRegX.FailReason.Binary':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]F:FindRegX.FindRegX.FailReason.TooBig':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]T:FindRegX.FindRegX.TraverseEventHandler':
+<summary></summary>
+<param name="file"></param>
+<param name="r"></param>
+TRACE: processing comment '[FindRegX.Core]T:FindRegX.ReplacementInfo':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]M:FindRegX.ReplacementInfo.#ctor(System.String,System.String)':
+<summary></summary>
+<param name="find"></param>
+<param name="replace"></param>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.ReplacementInfo.TextToFind':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.ReplacementInfo.ReplaceWith':
+<summary></summary>
+TRACE: processing comment '[FindRegX.Core]T:FindRegX.Properties.Resources':
+<summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.Properties.Resources.ResourceManager':
+<summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+TRACE: processing comment '[FindRegX.Core]P:FindRegX.Properties.Resources.Culture':
+<summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+Cached doc : findregx.gui.xml (0.016 sec.)
+TRACE: processing comment '[FindRegX.GUI]T:FindRegX.Properties.Resources':
+<summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+TRACE: processing comment '[FindRegX.GUI]P:FindRegX.Properties.Resources.ResourceManager':
+<summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+TRACE: processing comment '[FindRegX.GUI]P:FindRegX.Properties.Resources.Culture':
+<summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+TRACE: processing comment '[FindRegX.GUI]T:FindRegX.ReplaceForm':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]M:FindRegX.ReplaceForm.#ctor':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]M:FindRegX.ReplaceForm.Dispose(System.Boolean)':
+<summary></summary>
+<param name="disposing"></param>
+TRACE: processing comment '[FindRegX.GUI]T:AR.AutoCompCombo':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]M:AR.AutoCompCombo.#ctor':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]M:AR.AutoCompCombo.BrowseForDirectory':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]E:AR.AutoCompCombo.SelectedPathChanged':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]E:AR.AutoCompCombo.RecursiveChanged':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]P:AR.AutoCompCombo.Recursive':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]T:AR.AutoCompCombo.SelectedPathChangedEventHandler':
+<summary></summary>
+<param name="sender"></param>
+<param name="path"></param>
+TRACE: processing comment '[FindRegX.GUI]T:FindRegX.Start':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]M:FindRegX.Start.Main':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]T:FindRegX.ConfigHelper':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]T:FindRegX.BE.RecentList':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]T:FindRegX.BE.RecentItem':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]M:FindRegX.BE.RecentItem.CompareTo(FindRegX.BE.RecentItem)':
+<summary>
+            Ordena descendentemente por fecha
+            </summary>
+<param name="o"></param>
+<returns></returns>
+TRACE: processing comment '[FindRegX.GUI]P:FindRegX.BE.RecentItem.Value':
+<summary></summary>
+TRACE: processing comment '[FindRegX.GUI]P:FindRegX.BE.RecentItem.LastUsed':
+<summary></summary>
+Memory before making xml: 2619792
+LoadAssembly: y:\sourcecode\areyesram\findregx\bin\debug\findregx.core.dll
+LoadAssembly: y:\sourcecode\areyesram\findregx\bin\debug\findregx.gui.exe
+Discarding namespace FindRegX.Properties because it does not contain any documented types.
+Writing namespace FindRegX...
+XML Doc not found for mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Wrote 2 classes.
+Wrote 0 interfaces.
+Wrote 0 structures.
+Wrote 1 delegates.
+Wrote 1 enumerations.
+Completed FindRegX.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+0.235 sec.
+Writing namespace FindRegX...
+XML Doc not found for System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+XML Doc not found for System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Wrote 3 classes.
+Wrote 0 interfaces.
+Wrote 0 structures.
+Wrote 0 delegates.
+Wrote 0 enumerations.
+Discarding namespace FindRegX.Properties because it does not contain any documented types.
+Writing namespace AR...
+Wrote 1 classes.
+Wrote 0 interfaces.
+Wrote 0 structures.
+Wrote 1 delegates.
+Wrote 0 enumerations.
+Writing namespace FindRegX.BE...
+Wrote 2 classes.
+Wrote 0 interfaces.
+Wrote 0 structures.
+Wrote 0 delegates.
+Wrote 0 enumerations.
+Completed FindRegX.GUI, Version=0.2.0.0, Culture=neutral, PublicKeyToken=null
+1.406 sec.
+MakeXML : 1.719 sec.
+MakeXML : 1.719 sec.
+Memory after making xml: 3808544
+Loading XSLT files...
+XSLT probing directories 3
+file://C:\Program Files (x86)\NDoc3\bin\Documenter\Msdn\xslt
+file://C:\Documenter\Msdn\xslt
+file://C:\src\Documenter\Msdn\xslt
+    Compiling assembly.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.assembly.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.common.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.filenames.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.global_arguments.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.syntax.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.vb-syntax.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.tags.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.blank.xsltCompiling namespace.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.namespace.xsltCompiling namespacehierarchy.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.namespacehierarchy.xsltCompiling type.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.type.xsltCompiling typehierarchy.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.typehierarchy.xsltCompiling allmembers.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.allmembers.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.memberscommon.xsltCompiling individualmembers.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.individualmembers.xsltCompiling event.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.event.xsltCompiling member.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.member.xsltCompiling memberoverload.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.memberoverload.xsltCompiling property.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.property.xsltCompiling field.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.field.xsltCompiling htmlcontents.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.htmlcontents.xsltGenerating HTML pages...
+~AR.html
+78 msec.
+~AR~Hierarchy.html
+16 msec.
+FindRegX.GUI~AR.AutoCompCombo.html
+31 msec.
+FindRegX.GUI~AR.AutoCompCombo~Members.html
+109 msec.
+FindRegX.GUI~AR.AutoCompCombo.~ctor.html
+16 msec.
+FindRegX.GUI~AR.AutoCompCombo~Properties.html
+47 msec.
+FindRegX.GUI~AR.AutoCompCombo.Recursive.html
+16 msec.
+FindRegX.GUI~AR.AutoCompCombo~Methods.html
+62 msec.
+FindRegX.GUI~AR.AutoCompCombo.BrowseForDirectory.html
+16 msec.
+FindRegX.GUI~AR.AutoCompCombo~Events.html
+16 msec.
+FindRegX.GUI~AR.AutoCompCombo.RecursiveChanged.html
+16 msec.
+FindRegX.GUI~AR.AutoCompCombo.SelectedPathChanged.html
+0 msec.
+FindRegX.GUI~AR.AutoCompCombo.SelectedPathChangedEventHandler.html
+15 msec.
+~FindRegX.html
+0 msec.
+~FindRegX~Hierarchy.html
+16 msec.
+FindRegX.GUI~FindRegX.ConfigHelper.html
+15 msec.
+FindRegX.GUI~FindRegX.ConfigHelper~Members.html
+0 msec.
+FindRegX.GUI~FindRegX.ConfigHelper.~ctor.html
+16 msec.
+FindRegX.Core~FindRegX.FindRegX.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX~Members.html
+16 msec.
+FindRegX.Core~FindRegX.FindRegX.~ctor.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX~Properties.html
+15 msec.
+FindRegX.Core~FindRegX.FindRegX.Matches.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX.Pattern.html
+32 msec.
+FindRegX.Core~FindRegX.FindRegX.Recursive.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX.Regex.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX.Replace.html
+15 msec.
+FindRegX.Core~FindRegX.FindRegX.Replacements.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX.Results.html
+16 msec.
+FindRegX.Core~FindRegX.FindRegX.Trim.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX~Methods.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX.Start.html
+15 msec.
+FindRegX.Core~FindRegX.FindRegX.Stop.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX~Events.html
+16 msec.
+FindRegX.Core~FindRegX.FindRegX.FileProcessed.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX.FileSkipped.html
+31 msec.
+FindRegX.Core~FindRegX.FindRegX.FailReason.html
+0 msec.
+FindRegX.Core~FindRegX.FindRegX.TraverseEventHandler.html
+16 msec.
+FindRegX.GUI~FindRegX.ReplaceForm.html
+47 msec.
+FindRegX.GUI~FindRegX.ReplaceForm~Members.html
+109 msec.
+FindRegX.GUI~FindRegX.ReplaceForm.~ctor.html
+16 msec.
+FindRegX.GUI~FindRegX.ReplaceForm~Methods.html
+78 msec.
+FindRegX.GUI~FindRegX.ReplaceForm.Dispose~Overloads.html
+31 msec.
+FindRegX.GUI~FindRegX.ReplaceForm.Dispose1.html
+16 msec.
+FindRegX.Core~FindRegX.ReplacementInfo.html
+15 msec.
+FindRegX.Core~FindRegX.ReplacementInfo~Members.html
+0 msec.
+FindRegX.Core~FindRegX.ReplacementInfo.~ctor.html
+32 msec.
+FindRegX.Core~FindRegX.ReplacementInfo~Properties.html
+31 msec.
+FindRegX.Core~FindRegX.ReplacementInfo.ReplaceWith.html
+16 msec.
+FindRegX.Core~FindRegX.ReplacementInfo.TextToFind.html
+15 msec.
+FindRegX.GUI~FindRegX.Start.html
+0 msec.
+FindRegX.GUI~FindRegX.Start~Members.html
+16 msec.
+FindRegX.GUI~FindRegX.Start.~ctor.html
+0 msec.
+FindRegX.GUI~FindRegX.Start~Methods.html
+15 msec.
+FindRegX.GUI~FindRegX.Start.Main.html
+0 msec.
+~FindRegX.BE.html
+0 msec.
+~FindRegX.BE~Hierarchy.html
+16 msec.
+FindRegX.GUI~FindRegX.BE.RecentItem.html
+16 msec.
+FindRegX.GUI~FindRegX.BE.RecentItem~Members.html
+15 msec.
+FindRegX.GUI~FindRegX.BE.RecentItem.~ctor.html
+0 msec.
+FindRegX.GUI~FindRegX.BE.RecentItem~Properties.html
+0 msec.
+FindRegX.GUI~FindRegX.BE.RecentItem.LastUsed.html
+16 msec.
+FindRegX.GUI~FindRegX.BE.RecentItem.Value.html
+0 msec.
+FindRegX.GUI~FindRegX.BE.RecentItem~Methods.html
+16 msec.
+FindRegX.GUI~FindRegX.BE.RecentItem.CompareTo.html
+0 msec.
+FindRegX.GUI~FindRegX.BE.RecentList.html
+15 msec.
+FindRegX.GUI~FindRegX.BE.RecentList~Members.html
+16 msec.
+FindRegX.GUI~FindRegX.BE.RecentList.~ctor.html
+0 msec.
+Making Html: 1.235 sec.
+Generating HTML index file...
+transform the HHC contents file into html
+16 msec.
+Compiling HTML Help file...
+Compiling Html Help file
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling y:\SourceCode\AREYESRAM\FindRegX\doc\ndoc3_msdn_temp\Documentation.chm
+
+
+Compile time: 0 minutes, 2 seconds
+135	Topics
+403	Local links
+1,703	Internet links
+6	Graphics
+
+
+Created y:\SourceCode\AREYESRAM\FindRegX\doc\ndoc3_msdn_temp\Documentation.chm, 83,966 bytes
+Compression decreased file by 538,028 bytes.
+
+Html Help compile complete
+Done.
