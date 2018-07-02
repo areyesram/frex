@@ -29,3 +29,10 @@ C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\Aryes.MainFor
 C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.csproj.GenerateResource.Cache
 C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.exe
 C:\Users\areyes\Google Drive\SourceCode\Aryes\Utils\frex\obj\Debug\frex.pdb
+C:\GIT\frex\obj\Debug\frex.csprojResolveAssemblyReference.cache
+C:\GIT\frex\obj\Debug\Aryes.Properties.Resources.resources
+C:\GIT\frex\obj\Debug\Aryes.ReplaceForm.resources
+C:\GIT\frex\obj\Debug\Aryes.MainForm.resources
+C:\GIT\frex\obj\Debug\frex.csproj.GenerateResource.Cache
+C:\GIT\frex\obj\Debug\frex.exe
+C:\GIT\frex\obj\Debug\frex.pdb
