@@ -3,6 +3,7 @@ using System.Collections;
 using System.ComponentModel;
 using System.Diagnostics;
 using System.IO;
+using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -40,6 +41,7 @@ namespace Aryes
             catch (Exception exception)
             {
                 MessageBox.Show(exception.Message + exception.StackTrace);
+                btnGo.Enabled = true;
             }
         }
 
@@ -71,7 +73,7 @@ namespace Aryes
 
         private void LoadConfig()
         {
-            //cboPath.Text = Settings.Default.Path.First().Value;
+            cboPath.Text = Settings.Default.Path.FirstOrDefault()?.Value;
             LoadCombo(cboMask, Settings.Default.Mask);
             LoadCombo(cboRegx, Settings.Default.RegX);
             LoadCombo(cboReplace, Settings.Default.Replace);
