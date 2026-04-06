@@ -1,8 +1,6 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using Aryes.Core;
-using Aryes.BE;
 
 namespace Aryes
 {
@@ -29,27 +27,27 @@ namespace Aryes
                         break;
                     case "--pattern":
                     case "-m":
-                        if (i + 1 < args.Length) FindRegX.Pattern = args[++i];
+                        if (i + 1 < args.Length) Core.FindRegX.Pattern = args[++i];
                         break;
                     case "--regex":
                     case "-r":
-                        if (i + 1 < args.Length) FindRegX.Regex = args[++i];
+                        if (i + 1 < args.Length) Core.FindRegX.Regex = args[++i];
                         break;
                     case "--replace":
                     case "-w":
-                        if (i + 1 < args.Length) FindRegX.Replace = args[++i];
+                        if (i + 1 < args.Length) Core.FindRegX.Replace = args[++i];
                         break;
                     case "--recursive":
                     case "-R":
-                        FindRegX.Recursive = true;
+                        Core.FindRegX.Recursive = true;
                         break;
                     case "--casesensitive":
                     case "-c":
-                        FindRegX.CaseSensitive = true;
+                        Core.FindRegX.CaseSensitive = true;
                         break;
                     case "--trim":
                     case "-t":
-                        FindRegX.Trim = true;
+                        Core.FindRegX.Trim = true;
                         break;
                     case "--script":
                     case "-s":
@@ -66,21 +64,21 @@ namespace Aryes
                 }
             }
 
-            FindRegX.FileProcessed += (file, reason) => {
+            Core.FindRegX.FileProcessed += (file, reason) => {
                 Console.WriteLine($"Processed: {file}");
             };
-            FindRegX.FileSkipped += (file, reason) => {
+            Core.FindRegX.FileSkipped += (file, reason) => {
                 Console.WriteLine($"Skipped: {file} ({reason})");
             };
 
             Console.WriteLine("Starting Find/Replace...");
-            FindRegX.Start(path, clearResults);
+            Core.FindRegX.Start(path, clearResults);
             
-            Console.WriteLine($"Finished! Matches: {FindRegX.Matches}");
+            Console.WriteLine($"Finished! Matches: {Core.FindRegX.Matches}");
             
             // Output results
             Console.WriteLine("Results found:");
-            foreach(var res in FindRegX.Results)
+            foreach(var res in Core.FindRegX.Results)
             {
                 Console.WriteLine(res);
             }
@@ -94,7 +92,7 @@ namespace Aryes
                 return;
             }
 
-            var replacements = new List<ReplacementInfo>();
+            var replacements = new List<BE.ReplacementInfo>();
             var lines = File.ReadAllLines(scriptPath);
             foreach (var line in lines)
             {
@@ -103,7 +101,7 @@ namespace Aryes
                 var parts = line.Split('\t');
                 if(parts.Length == 2)
                 {
-                    replacements.Add(new ReplacementInfo {
+                    replacements.Add(new BE.ReplacementInfo {
                         TextToFind = parts[0],
                         ReplaceWith = parts[1]
                     });
@@ -113,7 +111,7 @@ namespace Aryes
                     parts = line.Split('|');
                     if(parts.Length >= 2)
                     {
-                        replacements.Add(new ReplacementInfo {
+                        replacements.Add(new BE.ReplacementInfo {
                             TextToFind = parts[0],
                             ReplaceWith = parts[1]
                         });
@@ -121,7 +119,7 @@ namespace Aryes
                 }
             }
 
-            FindRegX.Replacements = replacements.ToArray();
+            Core.FindRegX.Replacements = replacements.ToArray();
             Console.WriteLine($"Loaded {replacements.Count} replacements from script.");
         }
 
