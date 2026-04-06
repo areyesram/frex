@@ -1,0 +1,17 @@
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/bin/Debug/net8.0/frex
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/bin/Debug/net8.0/frex.deps.json
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/bin/Debug/net8.0/frex.runtimeconfig.json
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/bin/Debug/net8.0/frex.dll
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/bin/Debug/net8.0/frex.pdb
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/Aryes.Properties.Resources.resources
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/frex.csproj.GenerateResource.cache
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/frex.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/frex.AssemblyInfoInputs.cache
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/frex.AssemblyInfo.cs
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/frex.csproj.CoreCompileInputs.cache
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/frex.sourcelink.json
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/frex.dll
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/refint/frex.dll
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/frex.pdb
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/frex.genruntimeconfig.cache
+/mnt/data/BACKUP/SourceCode/Aryes/Utils/frex/obj/Debug/net8.0/ref/frex.dll

@@ -1,0 +1,4 @@
+Hello World!
+This is a target word to replace.
+And we also want to replace THIS word.
+But not that word.

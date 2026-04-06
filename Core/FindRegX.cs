@@ -3,7 +3,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Text.RegularExpressions;
-using System.Windows.Forms;
 
 namespace Aryes.Core
 {
@@ -37,7 +36,7 @@ namespace Aryes.Core
         /// <summary>
         /// 
         /// </summary>
-        internal static bool Recursive { private get; set; }
+        internal static bool Recursive { get; set; }
 
         private static Regex _regex;
         /// <summary>
@@ -57,12 +56,12 @@ namespace Aryes.Core
         /// <summary>
         /// 
         /// </summary>
-        internal static string Replace { private get; set; }
+        internal static string Replace { get; set; }
 
         /// <summary>
         /// 
         /// </summary>
-        internal static bool Trim { private get; set; }
+        internal static bool Trim { get; set; }
 
         private static Hashtable _results;
         /// <summary>
@@ -188,10 +187,7 @@ namespace Aryes.Core
                         reader.Close();
                         if (FileProcessed != null)
                             FileProcessed(file, FailReason.None);
-                        Application.DoEvents();
                     }
-
-                    Application.DoEvents();
                 }
                 catch (Exception ex)
                 {
@@ -213,7 +209,7 @@ namespace Aryes.Core
         private static bool FileTooBig(string file)
         {
             var fi = new FileInfo(file);
-            return fi.Length > Settings.Default.MaxFileSize;
+            return fi.Length > 10485760; // 10MB default MaxFileSize
         }
 
         const int BufLen = 512;
@@ -226,7 +222,7 @@ namespace Aryes.Core
         static FindRegX()
         {
             Trim = false;
-            Replace = null;
+            Replace = "";
             Replacements = new BE.ReplacementInfo[0];
             Matches = 0;
         }
